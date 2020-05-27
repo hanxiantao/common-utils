@@ -6,7 +6,7 @@ import java.util.Base64;
 /**
  * Created by hxt
  * Date 2020/5/28 7:07 上午
- * Description BASE64编码工具类
+ * Description Base64编码工具类
  */
 public class Base64Util {
     private static final String DEFAULT_ENCODING = "UTF-8";

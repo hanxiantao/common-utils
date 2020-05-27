@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="347b304b-77c7-4c8a-96de-02aec28abacf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hxt/utils/BASE64Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hxt/utils/CollectionUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hxt/utils/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/common-utils-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-    </list>
+    <list default="true" id="347b304b-77c7-4c8a-96de-02aec28abacf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,11 +85,31 @@
       <updated>1590620038034</updated>
       <workItem from="1590620041230" duration="1684000" />
       <workItem from="1590621951280" duration="80000" />
+      <workItem from="1590622051449" duration="244000" />
     </task>
+    <task id="LOCAL-00001" summary="新增集合工具类、Base64编码工具类">
+      <created>1590622087059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590622087059</updated>
+    </task>
+    <task id="LOCAL-00002" summary="新增集合工具类、Base64编码工具类">
+      <created>1590622283106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590622283106</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增集合工具类、Base64编码工具类" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增集合工具类、Base64编码工具类" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="168" key="#Project_Structure" timestamp="1590621556886">
@@ -112,10 +120,10 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.960@0.23.1680.960" timestamp="1590621762233" />
-    <state x="418" y="33" key="CommitChangelistDialog2" timestamp="1590622086737">
+    <state x="418" y="33" key="CommitChangelistDialog2" timestamp="1590622282965">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="418" y="33" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1590622086737" />
+    <state x="418" y="33" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1590622282965" />
     <state x="168" y="108" key="DiffContextDialog" timestamp="1590622070677">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -160,10 +168,10 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="328" y="84" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1590621660668" />
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1590622089305">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1590622285136">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1590622089305" />
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1590622285136" />
     <state x="506" y="265" width="667" height="476" key="find.popup" timestamp="1590620482359">
       <screen x="0" y="23" width="1680" height="960" />
     </state>

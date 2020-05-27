@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="347b304b-77c7-4c8a-96de-02aec28abacf" name="Default Changelist" comment="" />
+    <list default="true" id="347b304b-77c7-4c8a-96de-02aec28abacf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hxt/utils/BASE64Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hxt/utils/CollectionUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hxt/utils/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/common-utils-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +37,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cViD37jkzeWD9MozhhDxMWFxGN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -79,6 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590620038034</updated>
       <workItem from="1590620041230" duration="1684000" />
+      <workItem from="1590621951280" duration="80000" />
     </task>
     <servers />
   </component>
@@ -94,6 +112,14 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.960@0.23.1680.960" timestamp="1590621762233" />
+    <state x="418" y="33" key="CommitChangelistDialog2" timestamp="1590622086737">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="418" y="33" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1590622086737" />
+    <state x="168" y="108" key="DiffContextDialog" timestamp="1590622070677">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="168" y="108" key="DiffContextDialog/0.23.1680.960@0.23.1680.960" timestamp="1590622070677" />
     <state width="1638" height="258" key="GridCell.Tab.0.bottom" timestamp="1590621769510">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -134,6 +160,10 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="328" y="84" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1590621660668" />
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1590622089305">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1590622089305" />
     <state x="506" y="265" width="667" height="476" key="find.popup" timestamp="1590620482359">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
